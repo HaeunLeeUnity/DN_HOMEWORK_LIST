@@ -30,9 +30,14 @@ const DEFAULT_WEEKLY_TASKS = [
   // 원더풀 테마파크
   { id: 'w14', name: '보스러쉬',                  category: '원더풀 테마파크', tags: [{ text: '테마파크', type: 'type' }], maxCount: 1 },
   { id: 'w15', name: '페르시아고블',              category: '원더풀 테마파크', tags: [{ text: '테마파크', type: 'type' }], maxCount: 1 },
+  { id: 'w18', name: '김오크의 역습',             category: '원더풀 테마파크', tags: [{ text: '테마파크', type: 'type' }], maxCount: 1 },
+  { id: 'w19', name: '수도원 보물창고',            category: '원더풀 테마파크', tags: [{ text: '테마파크', type: 'type' }], maxCount: 1 },
+  { id: 'w20', name: '험난한 길',                 category: '원더풀 테마파크', tags: [{ text: '테마파크', type: 'type' }], maxCount: 1 },
   // 기타
   { id: 'w16', name: '연회장',                    category: '기타', tags: [{ text: '기타', type: 'type' }], maxCount: 1 },
   { id: 'w17', name: '질투',                      category: '기타', tags: [{ text: '기타', type: 'type' }], maxCount: 1 },
+  { id: 'w21', name: '혼돈의 틈 카말라',           category: '기타', tags: [{ text: '기타', type: 'type' }], maxCount: 1 },
+  { id: 'w22', name: '혼돈의 틈 바이라',           category: '기타', tags: [{ text: '기타', type: 'type' }], maxCount: 1 },
 ];
 
 // ── Storage Helpers ────────────────────────────────────────────────────────
