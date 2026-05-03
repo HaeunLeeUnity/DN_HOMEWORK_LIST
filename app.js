@@ -5,7 +5,9 @@
 // ── Default Task Data ──────────────────────────────────────────────────────
 
 const DEFAULT_DAILY_TASKS = [
-  { id: 'd1', name: '피로도 소진', category: '일일', tags: [{ text: '피로도', type: 'type' }], maxCount: 1 },
+  { id: 'd1', name: '피로도 소진',  category: '일일', tags: [{ text: '피로도', type: 'type' }], maxCount: 1 },
+  { id: 'd2', name: '피로회복제1', category: '일일', tags: [{ text: '피로도', type: 'type' }], maxCount: 1 },
+  { id: 'd3', name: '피로회복제2', category: '일일', tags: [{ text: '피로도', type: 'type' }], maxCount: 1 },
 ];
 
 const DEFAULT_WEEKLY_TASKS = [
